@@ -1,0 +1,2 @@
+rest_framework_mongoengine
+rest_framework_mongoengine/contrib

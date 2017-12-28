@@ -1,0 +1,253 @@
+Thu, 28 Dec 2017 18:40:10 jd_monitoring_engine.py set_searching_url()[line:101] INFO Setting searching urls for JD Monitoring Engine...
+Thu, 28 Dec 2017 18:40:18 jd_monitoring_engine.py set_searching_url()[line:101] INFO Setting searching urls for JD Monitoring Engine...
+Thu, 28 Dec 2017 18:40:33 jd_monitoring_engine.py set_searching_url()[line:101] INFO Setting searching urls for JD Monitoring Engine...
+Thu, 28 Dec 2017 18:40:58 jd_monitoring_engine.py set_searching_url()[line:101] INFO Setting searching urls for JD Monitoring Engine...
+Thu, 28 Dec 2017 18:41:24 jd_monitoring_engine.py set_searching_url()[line:101] INFO Setting searching urls for JD Monitoring Engine...
+Thu, 28 Dec 2017 18:42:40 jd_monitoring_engine.py set_searching_url()[line:101] INFO Setting searching urls for JD Monitoring Engine...
+Thu, 28 Dec 2017 18:44:30 jd_monitoring_engine.py set_searching_url()[line:101] INFO Setting searching urls for JD Monitoring Engine...
+Thu, 28 Dec 2017 18:44:31 jd_monitoring_engine.py set_searching_url()[line:140] INFO Updated JD Monitoring Engine with 1 urls
+Thu, 28 Dec 2017 18:48:57 jd_monitoring_engine.py set_searching_url()[line:101] INFO Setting searching urls for JD Monitoring Engine...
+Thu, 28 Dec 2017 18:49:03 jd_monitoring_engine.py set_searching_url()[line:140] INFO Updated JD Monitoring Engine with 1 urls
+Thu, 28 Dec 2017 18:50:36 jd_monitoring_engine.py set_searching_url()[line:101] INFO Setting searching urls for JD Monitoring Engine...
+Thu, 28 Dec 2017 18:50:36 jd_monitoring_engine.py set_searching_url()[line:140] INFO Updated JD Monitoring Engine with 1 urls
+Thu, 28 Dec 2017 18:50:36 jd_monitoring_engine.py <module>()[line:353] INFO Sending 1/1 url dict to basic info extraction
+Thu, 28 Dec 2017 18:50:36 jd_monitoring_engine.py get_basic_info()[line:185] INFO Execution: JD Monitoring
+Thu, 28 Dec 2017 18:50:36 jd_monitoring_engine.py get_basic_info()[line:195] INFO Detected 30 products
+Thu, 28 Dec 2017 18:50:37 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(4824733) is missed
+Thu, 28 Dec 2017 18:50:38 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(4824715) is missed
+Thu, 28 Dec 2017 18:50:38 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(5352358) is missed
+Thu, 28 Dec 2017 18:50:38 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(5148309) is missed
+Thu, 28 Dec 2017 18:50:38 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(5148275) is missed
+Thu, 28 Dec 2017 18:50:39 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(5454888) is missed
+Thu, 28 Dec 2017 18:50:39 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(5148299) is missed
+Thu, 28 Dec 2017 18:50:39 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(5025869) is missed
+Thu, 28 Dec 2017 18:50:40 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(5834183) is missed
+Thu, 28 Dec 2017 18:50:40 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(5352356) is missed
+Thu, 28 Dec 2017 18:50:40 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(5148237) is missed
+Thu, 28 Dec 2017 18:50:41 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(4534295) is missed
+Thu, 28 Dec 2017 18:50:41 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(3858481) is missed
+Thu, 28 Dec 2017 18:50:41 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(5025849) is missed
+Thu, 28 Dec 2017 18:50:42 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(5148297) is missed
+Thu, 28 Dec 2017 18:50:42 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(5148295) is missed
+Thu, 28 Dec 2017 18:50:42 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(2316993) is missed
+Thu, 28 Dec 2017 18:50:42 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(4396371) is missed
+Thu, 28 Dec 2017 18:50:43 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(3794327) is missed
+Thu, 28 Dec 2017 18:50:43 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(4413544) is missed
+Thu, 28 Dec 2017 18:50:43 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(5336402) is missed
+Thu, 28 Dec 2017 18:50:43 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(5291590) is missed
+Thu, 28 Dec 2017 18:50:44 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(4094740) is missed
+Thu, 28 Dec 2017 18:50:44 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(5148349) is missed
+Thu, 28 Dec 2017 18:50:44 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(5148351) is missed
+Thu, 28 Dec 2017 18:50:45 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(4106535) is missed
+Thu, 28 Dec 2017 18:50:45 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(4585527) is missed
+Thu, 28 Dec 2017 18:50:45 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(5495736) is missed
+Thu, 28 Dec 2017 18:50:45 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(5050164) is missed
+Thu, 28 Dec 2017 18:50:46 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(4118145) is missed
+Thu, 28 Dec 2017 18:50:46 jd_monitoring_engine.py get_basic_info()[line:282] INFO Returned 0 products
+Thu, 28 Dec 2017 18:50:46 jd_monitoring_engine.py get_basic_info()[line:185] INFO Execution: JD Monitoring
+Thu, 28 Dec 2017 18:50:46 jd_monitoring_engine.py get_basic_info()[line:195] INFO Detected 30 products
+Thu, 28 Dec 2017 18:50:47 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(5148351) is missed
+Thu, 28 Dec 2017 18:50:47 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(4106535) is missed
+Thu, 28 Dec 2017 18:50:47 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(4585527) is missed
+Thu, 28 Dec 2017 18:50:47 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(5495736) is missed
+Thu, 28 Dec 2017 18:50:48 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(5050164) is missed
+Thu, 28 Dec 2017 18:50:48 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(4118145) is missed
+Thu, 28 Dec 2017 18:50:48 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(5148345) is missed
+Thu, 28 Dec 2017 18:50:49 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(3794329) is missed
+Thu, 28 Dec 2017 18:50:49 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(1003062) is missed
+Thu, 28 Dec 2017 18:50:49 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(3867775) is missed
+Thu, 28 Dec 2017 18:50:49 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(4232306) is missed
+Thu, 28 Dec 2017 18:50:50 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(4432452) is missed
+Thu, 28 Dec 2017 18:50:50 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(1769180) is missed
+Thu, 28 Dec 2017 18:50:50 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(5774611) is missed
+Thu, 28 Dec 2017 18:50:50 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(4751681) is missed
+Thu, 28 Dec 2017 18:50:51 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(3240525) is missed
+Thu, 28 Dec 2017 18:50:51 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(3858475) is missed
+Thu, 28 Dec 2017 18:50:51 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(4472046) is missed
+Thu, 28 Dec 2017 18:50:52 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(4345751) is missed
+Thu, 28 Dec 2017 18:50:52 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(5025825) is missed
+Thu, 28 Dec 2017 18:50:53 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(4669885) is missed
+Thu, 28 Dec 2017 18:50:53 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(10678469488) is missed
+Thu, 28 Dec 2017 18:50:53 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(3820209) is missed
+Thu, 28 Dec 2017 18:50:54 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(4285536) is missed
+Thu, 28 Dec 2017 18:50:54 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(3852873) is missed
+Thu, 28 Dec 2017 18:50:54 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(5005427) is missed
+Thu, 28 Dec 2017 18:50:55 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(5270195) is missed
+Thu, 28 Dec 2017 18:50:55 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(4276780) is missed
+Thu, 28 Dec 2017 18:50:55 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(3871823) is missed
+Thu, 28 Dec 2017 18:50:55 jd_monitoring_engine.py get_basic_info()[line:281] WARNING item: pid(5388386) is missed
+Thu, 28 Dec 2017 18:50:55 jd_monitoring_engine.py get_basic_info()[line:282] INFO Returned 0 products
+Thu, 28 Dec 2017 18:51:47 jd_monitoring_engine.py set_searching_url()[line:101] INFO Setting searching urls for JD Monitoring Engine...
+Thu, 28 Dec 2017 18:51:47 jd_monitoring_engine.py set_searching_url()[line:140] INFO Updated JD Monitoring Engine with 1 urls
+Thu, 28 Dec 2017 18:51:47 jd_monitoring_engine.py <module>()[line:354] INFO Sending 1/1 url dict to basic info extraction
+Thu, 28 Dec 2017 18:51:47 jd_monitoring_engine.py get_basic_info()[line:185] INFO Execution: JD Monitoring
+Thu, 28 Dec 2017 18:51:48 jd_monitoring_engine.py get_basic_info()[line:195] INFO Detected 30 products
+Thu, 28 Dec 2017 18:51:48 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4824733) is missed
+Thu, 28 Dec 2017 18:51:49 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4824715) is missed
+Thu, 28 Dec 2017 18:51:49 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5352358) is missed
+Thu, 28 Dec 2017 18:51:49 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5148309) is missed
+Thu, 28 Dec 2017 18:51:50 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5148275) is missed
+Thu, 28 Dec 2017 18:51:50 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5454888) is missed
+Thu, 28 Dec 2017 18:51:50 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5148299) is missed
+Thu, 28 Dec 2017 18:51:51 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5025869) is missed
+Thu, 28 Dec 2017 18:51:51 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5834183) is missed
+Thu, 28 Dec 2017 18:51:51 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5352356) is missed
+Thu, 28 Dec 2017 18:51:51 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5148237) is missed
+Thu, 28 Dec 2017 18:51:52 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4534295) is missed
+Thu, 28 Dec 2017 18:51:52 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(3858481) is missed
+Thu, 28 Dec 2017 18:51:52 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5025849) is missed
+Thu, 28 Dec 2017 18:51:53 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5148297) is missed
+Thu, 28 Dec 2017 18:51:53 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5148295) is missed
+Thu, 28 Dec 2017 18:51:53 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(2316993) is missed
+Thu, 28 Dec 2017 18:51:54 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4396371) is missed
+Thu, 28 Dec 2017 18:51:54 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(3794327) is missed
+Thu, 28 Dec 2017 18:51:54 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4413544) is missed
+Thu, 28 Dec 2017 18:51:54 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5336402) is missed
+Thu, 28 Dec 2017 18:51:55 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5291590) is missed
+Thu, 28 Dec 2017 18:51:55 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4094740) is missed
+Thu, 28 Dec 2017 18:51:55 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5148349) is missed
+Thu, 28 Dec 2017 18:51:56 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5148351) is missed
+Thu, 28 Dec 2017 18:51:56 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4106535) is missed
+Thu, 28 Dec 2017 18:51:56 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4585527) is missed
+Thu, 28 Dec 2017 18:51:56 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5495736) is missed
+Thu, 28 Dec 2017 18:51:57 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5050164) is missed
+Thu, 28 Dec 2017 18:51:57 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4118145) is missed
+Thu, 28 Dec 2017 18:51:57 jd_monitoring_engine.py get_basic_info()[line:283] INFO Returned 0 products
+Thu, 28 Dec 2017 18:51:57 jd_monitoring_engine.py get_basic_info()[line:185] INFO Execution: JD Monitoring
+Thu, 28 Dec 2017 18:51:57 jd_monitoring_engine.py get_basic_info()[line:195] INFO Detected 30 products
+Thu, 28 Dec 2017 18:51:58 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5148351) is missed
+Thu, 28 Dec 2017 18:51:58 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4106535) is missed
+Thu, 28 Dec 2017 18:51:58 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4585527) is missed
+Thu, 28 Dec 2017 18:51:59 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5495736) is missed
+Thu, 28 Dec 2017 18:51:59 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5050164) is missed
+Thu, 28 Dec 2017 18:51:59 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4118145) is missed
+Thu, 28 Dec 2017 18:52:00 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5148345) is missed
+Thu, 28 Dec 2017 18:52:00 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(3794329) is missed
+Thu, 28 Dec 2017 18:52:00 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(1003062) is missed
+Thu, 28 Dec 2017 18:52:00 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(3867775) is missed
+Thu, 28 Dec 2017 18:52:01 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4232306) is missed
+Thu, 28 Dec 2017 18:52:01 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4432452) is missed
+Thu, 28 Dec 2017 18:52:01 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(1769180) is missed
+Thu, 28 Dec 2017 18:52:01 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5774611) is missed
+Thu, 28 Dec 2017 18:52:02 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4751681) is missed
+Thu, 28 Dec 2017 18:52:02 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(3240525) is missed
+Thu, 28 Dec 2017 18:52:02 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(3858475) is missed
+Thu, 28 Dec 2017 18:52:03 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4472046) is missed
+Thu, 28 Dec 2017 18:52:03 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4345751) is missed
+Thu, 28 Dec 2017 18:52:03 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5025825) is missed
+Thu, 28 Dec 2017 18:52:04 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4669885) is missed
+Thu, 28 Dec 2017 18:52:04 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(10678469488) is missed
+Thu, 28 Dec 2017 18:52:04 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(3820209) is missed
+Thu, 28 Dec 2017 18:52:04 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4285536) is missed
+Thu, 28 Dec 2017 18:52:05 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(3852873) is missed
+Thu, 28 Dec 2017 18:52:05 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5005427) is missed
+Thu, 28 Dec 2017 18:52:05 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5270195) is missed
+Thu, 28 Dec 2017 18:52:06 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4276780) is missed
+Thu, 28 Dec 2017 18:52:06 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(3871823) is missed
+Thu, 28 Dec 2017 18:52:06 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5388386) is missed
+Thu, 28 Dec 2017 18:52:06 jd_monitoring_engine.py get_basic_info()[line:283] INFO Returned 0 products
+Thu, 28 Dec 2017 18:53:49 jd_monitoring_engine.py set_searching_url()[line:101] INFO Setting searching urls for JD Monitoring Engine...
+Thu, 28 Dec 2017 18:53:49 jd_monitoring_engine.py set_searching_url()[line:140] INFO Updated JD Monitoring Engine with 1 urls
+Thu, 28 Dec 2017 18:53:49 jd_monitoring_engine.py <module>()[line:354] INFO Sending 1/1 url dict to basic info extraction
+Thu, 28 Dec 2017 18:53:49 jd_monitoring_engine.py get_basic_info()[line:185] INFO Execution: JD Monitoring
+Thu, 28 Dec 2017 18:53:50 jd_monitoring_engine.py get_basic_info()[line:195] INFO Detected 30 products
+Thu, 28 Dec 2017 18:53:50 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4824733) is missed
+Thu, 28 Dec 2017 18:53:51 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4824715) is missed
+Thu, 28 Dec 2017 18:53:51 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5352358) is missed
+Thu, 28 Dec 2017 18:53:52 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5148309) is missed
+Thu, 28 Dec 2017 18:53:52 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5148275) is missed
+Thu, 28 Dec 2017 18:53:52 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5454888) is missed
+Thu, 28 Dec 2017 18:53:53 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5148299) is missed
+Thu, 28 Dec 2017 18:53:53 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5025869) is missed
+Thu, 28 Dec 2017 18:53:53 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5834183) is missed
+Thu, 28 Dec 2017 18:53:54 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5352356) is missed
+Thu, 28 Dec 2017 18:53:55 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5148237) is missed
+Thu, 28 Dec 2017 18:53:55 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4534295) is missed
+Thu, 28 Dec 2017 18:53:55 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(3858481) is missed
+Thu, 28 Dec 2017 18:53:55 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5025849) is missed
+Thu, 28 Dec 2017 18:53:56 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5148297) is missed
+Thu, 28 Dec 2017 18:53:56 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5148295) is missed
+Thu, 28 Dec 2017 18:53:57 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(2316993) is missed
+Thu, 28 Dec 2017 18:53:57 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4396371) is missed
+Thu, 28 Dec 2017 18:53:58 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(3794327) is missed
+Thu, 28 Dec 2017 18:53:58 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4413544) is missed
+Thu, 28 Dec 2017 18:53:59 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5336402) is missed
+Thu, 28 Dec 2017 18:53:59 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5291590) is missed
+Thu, 28 Dec 2017 18:53:59 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4094740) is missed
+Thu, 28 Dec 2017 18:54:00 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5148349) is missed
+Thu, 28 Dec 2017 18:54:00 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5148351) is missed
+Thu, 28 Dec 2017 18:54:00 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4106535) is missed
+Thu, 28 Dec 2017 18:54:01 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4585527) is missed
+Thu, 28 Dec 2017 18:54:01 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5495736) is missed
+Thu, 28 Dec 2017 18:54:01 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5050164) is missed
+Thu, 28 Dec 2017 18:54:02 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4118145) is missed
+Thu, 28 Dec 2017 18:54:02 jd_monitoring_engine.py get_basic_info()[line:283] INFO Returned 0 products
+Thu, 28 Dec 2017 18:54:02 jd_monitoring_engine.py get_basic_info()[line:185] INFO Execution: JD Monitoring
+Thu, 28 Dec 2017 18:54:02 jd_monitoring_engine.py get_basic_info()[line:195] INFO Detected 30 products
+Thu, 28 Dec 2017 18:54:03 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5148351) is missed
+Thu, 28 Dec 2017 18:54:03 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4106535) is missed
+Thu, 28 Dec 2017 18:54:03 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4585527) is missed
+Thu, 28 Dec 2017 18:54:04 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5495736) is missed
+Thu, 28 Dec 2017 18:54:04 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5050164) is missed
+Thu, 28 Dec 2017 18:54:04 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4118145) is missed
+Thu, 28 Dec 2017 18:54:05 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5148345) is missed
+Thu, 28 Dec 2017 18:54:05 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(3794329) is missed
+Thu, 28 Dec 2017 18:54:06 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(1003062) is missed
+Thu, 28 Dec 2017 18:54:06 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(3867775) is missed
+Thu, 28 Dec 2017 18:54:06 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4232306) is missed
+Thu, 28 Dec 2017 18:54:06 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4432452) is missed
+Thu, 28 Dec 2017 18:54:07 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(1769180) is missed
+Thu, 28 Dec 2017 18:54:07 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5774611) is missed
+Thu, 28 Dec 2017 18:54:07 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4751681) is missed
+Thu, 28 Dec 2017 18:54:08 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(3240525) is missed
+Thu, 28 Dec 2017 18:54:08 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(3858475) is missed
+Thu, 28 Dec 2017 18:54:08 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4472046) is missed
+Thu, 28 Dec 2017 18:54:08 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4345751) is missed
+Thu, 28 Dec 2017 18:54:09 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5025825) is missed
+Thu, 28 Dec 2017 18:54:09 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4669885) is missed
+Thu, 28 Dec 2017 18:54:09 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(10678469488) is missed
+Thu, 28 Dec 2017 18:54:10 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(3820209) is missed
+Thu, 28 Dec 2017 18:54:10 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4285536) is missed
+Thu, 28 Dec 2017 18:54:10 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(3852873) is missed
+Thu, 28 Dec 2017 18:54:11 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5005427) is missed
+Thu, 28 Dec 2017 18:54:11 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5270195) is missed
+Thu, 28 Dec 2017 18:54:11 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(4276780) is missed
+Thu, 28 Dec 2017 18:54:12 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(3871823) is missed
+Thu, 28 Dec 2017 18:54:12 jd_monitoring_engine.py get_basic_info()[line:282] WARNING item: pid(5388386) is missed
+Thu, 28 Dec 2017 18:54:12 jd_monitoring_engine.py get_basic_info()[line:283] INFO Returned 0 products
+Thu, 28 Dec 2017 18:55:51 jd_monitoring_engine.py set_searching_url()[line:103] INFO Setting searching urls for JD Monitoring Engine...
+Thu, 28 Dec 2017 18:55:51 jd_monitoring_engine.py set_searching_url()[line:142] INFO Updated JD Monitoring Engine with 1 urls
+Thu, 28 Dec 2017 18:55:51 jd_monitoring_engine.py <module>()[line:358] INFO Sending 1/1 url dict to basic info extraction
+Thu, 28 Dec 2017 18:55:51 jd_monitoring_engine.py get_basic_info()[line:187] INFO Execution: JD Monitoring
+Thu, 28 Dec 2017 18:55:51 jd_monitoring_engine.py get_basic_info()[line:197] INFO Detected 30 products
+Thu, 28 Dec 2017 18:55:52 jd_monitoring_engine.py set_searching_url()[line:103] INFO Setting searching urls for JD Monitoring Engine...
+Thu, 28 Dec 2017 18:55:53 jd_monitoring_engine.py set_searching_url()[line:142] INFO Updated JD Monitoring Engine with 1 urls
+Thu, 28 Dec 2017 18:55:53 jd_monitoring_engine.py <module>()[line:358] INFO Sending 1/1 url dict to basic info extraction
+Thu, 28 Dec 2017 18:55:53 jd_monitoring_engine.py get_basic_info()[line:187] INFO Execution: JD Monitoring
+Thu, 28 Dec 2017 18:55:53 jd_monitoring_engine.py get_basic_info()[line:197] INFO Detected 30 products
+Thu, 28 Dec 2017 18:56:01 jd_monitoring_engine.py get_basic_info()[line:287] INFO Returned 30 products
+Thu, 28 Dec 2017 18:56:01 jd_monitoring_engine.py get_basic_info()[line:187] INFO Execution: JD Monitoring
+Thu, 28 Dec 2017 18:56:01 jd_monitoring_engine.py get_basic_info()[line:197] INFO Detected 30 products
+Thu, 28 Dec 2017 18:56:01 jd_monitoring_engine.py get_basic_info()[line:287] INFO Returned 30 products
+Thu, 28 Dec 2017 18:56:01 jd_monitoring_engine.py get_basic_info()[line:187] INFO Execution: JD Monitoring
+Thu, 28 Dec 2017 18:56:02 jd_monitoring_engine.py get_basic_info()[line:197] INFO Detected 30 products
+Thu, 28 Dec 2017 18:56:10 jd_monitoring_engine.py get_basic_info()[line:287] INFO Returned 30 products
+Thu, 28 Dec 2017 18:56:11 jd_monitoring_engine.py get_basic_info()[line:287] INFO Returned 30 products
+Thu, 28 Dec 2017 18:58:01 jd_monitoring_engine.py set_searching_url()[line:103] INFO Setting searching urls for JD Monitoring Engine...
+Thu, 28 Dec 2017 18:58:02 jd_monitoring_engine.py set_searching_url()[line:142] INFO Updated JD Monitoring Engine with 1 urls
+Thu, 28 Dec 2017 18:58:02 jd_monitoring_engine.py <module>()[line:359] INFO Sending 1/1 url dict to basic info extraction
+Thu, 28 Dec 2017 18:58:02 jd_monitoring_engine.py get_basic_info()[line:187] INFO Execution: JD Monitoring
+Thu, 28 Dec 2017 18:58:02 jd_monitoring_engine.py get_basic_info()[line:197] INFO Detected 30 products
+Thu, 28 Dec 2017 18:58:10 jd_monitoring_engine.py get_basic_info()[line:286] INFO Returned 30 products
+Thu, 28 Dec 2017 18:58:10 jd_monitoring_engine.py get_basic_info()[line:187] INFO Execution: JD Monitoring
+Thu, 28 Dec 2017 18:58:11 jd_monitoring_engine.py get_basic_info()[line:197] INFO Detected 30 products
+Thu, 28 Dec 2017 18:58:19 jd_monitoring_engine.py get_basic_info()[line:286] INFO Returned 30 products
+Thu, 28 Dec 2017 19:02:25 jd_monitoring_engine.py set_searching_url()[line:103] INFO Setting searching urls for JD Monitoring Engine...
+Thu, 28 Dec 2017 19:02:26 jd_monitoring_engine.py set_searching_url()[line:142] INFO Updated JD Monitoring Engine with 1 urls
+Thu, 28 Dec 2017 19:02:26 jd_monitoring_engine.py <module>()[line:387] INFO Sending 1/1 url dict to basic info extraction
+Thu, 28 Dec 2017 19:02:26 jd_monitoring_engine.py get_basic_info()[line:187] INFO Execution: JD Monitoring
+Thu, 28 Dec 2017 19:02:26 jd_monitoring_engine.py get_basic_info()[line:197] INFO Detected 30 products
+Thu, 28 Dec 2017 19:02:35 jd_monitoring_engine.py get_basic_info()[line:286] INFO Returned 30 products
+Thu, 28 Dec 2017 19:02:35 jd_monitoring_engine.py get_basic_info()[line:187] INFO Execution: JD Monitoring
+Thu, 28 Dec 2017 19:02:35 jd_monitoring_engine.py get_basic_info()[line:197] INFO Detected 30 products
+Thu, 28 Dec 2017 19:02:44 jd_monitoring_engine.py get_basic_info()[line:286] INFO Returned 30 products

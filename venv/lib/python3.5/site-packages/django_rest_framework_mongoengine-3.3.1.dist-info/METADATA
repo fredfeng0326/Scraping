@@ -1,0 +1,28 @@
+Metadata-Version: 2.0
+Name: django-rest-framework-mongoengine
+Version: 3.3.1
+Summary: MongoEngine support for Django Rest Framework.
+Home-page: https://github.com/umutbozkurt/django-rest-framework-mongoengine
+Author: Umut Bozkurt
+Author-email: umutbozkurt92@gmail.com
+License: see https://github.com/umutbozkurt/django-rest-framework-mongoengine/blob/master/LICENSE
+Download-URL: https://github.com/umutbozkurt/django-rest-framework-mongoengine/releases/
+Keywords: mongoengine,serializer,django rest framework
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Internet
+Classifier: Topic :: Internet :: WWW/HTTP :: Site Management
+Classifier: Topic :: Text Processing :: Markup :: HTML
+Classifier: Intended Audience :: Developers
+Requires: mongoengine
+Requires: djangorestframework
+
+see https://github.com/umutbozkurt/django-rest-framework-mongoengine/blob/master/README.md
+
+

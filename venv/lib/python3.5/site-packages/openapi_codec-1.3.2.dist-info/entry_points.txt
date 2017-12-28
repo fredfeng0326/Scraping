@@ -1,0 +1,3 @@
+[coreapi.codecs]
+openapi = openapi_codec:OpenAPICodec
+
