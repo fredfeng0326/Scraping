@@ -25,7 +25,7 @@
                     'search_rank': rank,    "在当前搜索索引下的排名"
                     'search_order': order,   "当前索引（按销量，价格，热度等）"
                     'seller_url': seller_url,   "商家网页地址"
-                    'comments_list': comment_list    "具体评论"
+                    'comments_list': comment_list    "具体评论，支持抓取100条评论"
                 }
 ```
 
