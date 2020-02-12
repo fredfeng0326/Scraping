@@ -8,7 +8,7 @@ colorama==0.3.9
 coreapi==2.3.3
 coreschema==0.0.4
 coverage==4.4.1
-Django==1.11.2
+Django==1.11.28
 django-rest-framework-mongoengine==3.3.1
 django-rest-swagger==2.1.2
 djangorestframework==3.6.3
