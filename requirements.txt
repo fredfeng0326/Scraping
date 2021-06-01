@@ -43,5 +43,5 @@ tabulate==0.7.7
 tbselenium==0.2.1
 text-unidecode==1.0
 uritemplate==3.0.0
-urllib3==1.22
+urllib3==1.26.5
 xlrd==1.0.0
